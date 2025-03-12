@@ -1,0 +1,18 @@
+[[Model]]
+    Model(sternvolmer_simple)
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 3221
+    # data points      = 6
+    # variables        = 2
+    chi-square         = 0.01044533
+    reduced chi-square = 0.00261133
+    Akaike info crit   = -34.1201587
+    Bayesian info crit = -34.5366398
+    R-squared          = 0.99758223
+[[Variables]]
+    f: -307049.541 +/- 2.4652e+09 (802854.30%) (init = 0.887)
+    k:  7.4418e-08 +/- 5.9755e-04 (802973.44%) (init = 0.165)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(f, k) = +1.0000
+    I0:	2.81
