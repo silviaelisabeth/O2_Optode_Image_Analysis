@@ -7,3 +7,9 @@ It includes functionalities for reading images from files, splitting them into i
 The scripts used for analysis are stored in the main folder together with a _database_of_functions_ required. This file (_db_image_analysis.py_) must be saved in the same folder as the notebooks when running the script. Images are saved in the folder _data_ and results are exported to the folder _results_.
 
 For questions, comments, suggestions or potential wishes, please reach out to info@silviazieger.com
+
+---
+### License
+![License: CC BY‑NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
+This project/repo is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
